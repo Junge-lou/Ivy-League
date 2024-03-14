@@ -1,10 +1,13 @@
 # 25-daynight 用于回顾一天的学习(＾-＾)📚，分享自己每天做了什么事情😊
 ## 记忆曲线学习日志初级、中级和高级说明书。
- -如下
-[初级](https://mp.weixin.qq.com/s/yH8V-mx5-olmUL9wNHfaLA)
-[中级](https://mp.weixin.qq.com/s/Tn9R-7OULW4ni9EWPI1Obg)
-[高级](https://mp.weixin.qq.com/s/-M1_r3Bu5grjuAlXlUtisQ)
+- [X] 添加链接
+< [初级](https://mp.weixin.qq.com/s/yH8V-mx5-olmUL9wNHfaLA) >
+< [中级](https://mp.weixin.qq.com/s/Tn9R-7OULW4ni9EWPI1Obg) >
+< [高级](https://mp.weixin.qq.com/s/-M1_r3Bu5grjuAlXlUtisQ) >
 ### [pdf传送](防遗忘本)
+
+## 可以下载GitHub的[App](https://www.gitclone.com/download/GitHub_v1.55.0_apkpure.com.apk) 11.5Mb，可以用来提 [issues] 和 [DIscussions] 
+
 ### TODO：
 - [ ] 学习高数的公式编辑以加强熟练记忆公式
 - [ ] 英语单词在4月份前应该有计划的过了一遍
