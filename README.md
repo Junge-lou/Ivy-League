@@ -6,7 +6,7 @@
 < [高级](https://mp.weixin.qq.com/s/-M1_r3Bu5grjuAlXlUtisQ) >
 ### [pdf传送](防遗忘本)
 
-## 可以下载GitHub的[App](https://www.gitclone.com/download/GitHub_v1.55.0_apkpure.com.apk) 11.5Mb，可以用来提 [issues] 和 [DIscussions] 
+## 可以下载GitHub
 
 ### TODO：
 - [ ] 学习高数的公式编辑以加强熟练记忆公式
